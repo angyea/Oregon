@@ -69,4 +69,10 @@ El principal proceso productivo de la empresa está dedicado al transporte de ca
 
 **¿COMO FUNCIONA?**
 --------------------
-+
++ Al momento de ingresar al panel de administracion, se accedera mediante un correo y contraseña de cada usuario
++ Si ingresamos como un usuario administrador se podra acceder a las siguientes funcionalidades:
+    -se podra acceder a realizar registros, modificaciones y datos de clientes,choferes y paquete.
+    -se podra visualizar las tablas de los datos de los clientes, choferes y paquete.
+    -se podra registrar a nuevos administradores
+    -se podra imprimir la lista de clientes y paquete
++ Si ingresamos con un usuario invitado, la funcionalidad solo podraa ver las listas de clientes, choferes y paquetes, mas no registrar ni modificar.   
