@@ -1,4 +1,4 @@
-Sistema de Gestión de Encomiendas de la Empresa de Transportes OREGON SA
+Sistema de Gestión de Encomiendas de la Empresa de Transportes OREGON S.A
 ==========
 
 Este proyecto ha sido desarrollado para el curso de *INGENIERIA DE SOFTWARE II*, a cargo de *Henry Mendoza Puerta*, docente de la Universidad Privada Antenor Orrego
