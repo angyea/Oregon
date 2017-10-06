@@ -62,6 +62,7 @@ El principal proceso productivo de la empresa está dedicado al transporte de ca
 <img src='https://rawgit.com/angyea/Oregon/master/IR/INTERFACES/6.PNG' />
 
 
+<img src='https://rawgit.com/angyea/Oregon/master/IR/INTERFACES/7.PNG' />
 
 **¿COMO FUNCIONA?**
 --------------------
