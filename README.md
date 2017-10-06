@@ -36,6 +36,8 @@ El principal proceso productivo de la empresa está dedicado al transporte de ca
 
 +El sistema debe emitir una factura con los datos ya registrados de las encomiendas
 
+[Modelo Canvas] (https://1drv.ms/w/s!AvVTER7F8abOiCv4g_mWDfbszSE_)
+
 **TECNOLOGIAS UTILIZADAS**
 --------------------
 +FRONT END: HTML, CSS, JAVA SCRIPT
