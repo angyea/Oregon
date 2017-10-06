@@ -20,6 +20,8 @@ aplicando los conocimientos adquiridos en el curso de Ingeniería de Software II
 -	La empresa Oregón S.A se inició como una tienda de repuesto la cual después se asoció con otro administrador y se formó Chavín Express S.A dedicado al envío de encomiendas y paquetería. Poco después el primer administrador sacó un nuevo rubro que sería transporte personalizado de carga pesada y es así como se formó Oregón S.A.
 -	Oregón S.A es una compañía especializada en servicios de transporte de carga pesada nivel local y nacional y dentro del ámbito empresarial.
 -	 La empresa de transportes Oregón S.A. constituye una Gestión en materia de Organización con características de documentos normativos de singular importancia, en tanto, las responsabilidades y funciones específicas, a nivel de cargos desarrollados a partir de la estructura orgánica y funciones generales establecidas en el Reglamento de Organización.
+[Pictograma Solucionador] (https://rawgit.com/angyea/Oregon/master/IR/pictograma%20solucionador.png)
+[Pictograma de Diagnostico] (https://github.com/angyea/Oregon/blob/master/IR/pictograma%20diagnostico.png)
 
 **OPERACIONES**
 --------------------
