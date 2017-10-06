@@ -47,6 +47,9 @@ El principal proceso productivo de la empresa está dedicado al transporte de ca
 
 **TECNOLOGIAS UTILIZADAS**
 --------------------
+<img src='https://rawgit.com/angyea/Oregon/master/IR/1.PNG' />
+
+
 <img src='https://rawgit.com/angyea/Oregon/master/IR/INTERFACES/2.PNG' />
 
 
